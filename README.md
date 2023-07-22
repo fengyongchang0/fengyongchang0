@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a student, proficient in PHP backend programming, passionate about building efficient, scalable systems.
+
 <!--
 **fengyongchang0/fengyongchang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
